@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Dxlib2DGamas\\20240527.gameProject\\",
+  "WorkspaceRootPath": "E:\\GitHub\\20240527.gameProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FBAD6F80-09C3-4ECF-A14F-AF08AA99DD7C}|Project1.vcxproj|E:\\Dxlib2DGamas\\20240527.gameProject\\GameMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{FBAD6F80-09C3-4ECF-A14F-AF08AA99DD7C}|Project1.vcxproj|E:\\GitHub\\20240527.gameProject\\GameMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FBAD6F80-09C3-4ECF-A14F-AF08AA99DD7C}|Project1.vcxproj|solutionrelative:GameMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBAD6F80-09C3-4ECF-A14F-AF08AA99DD7C}|Project1.vcxproj|E:\\Dxlib2DGamas\\20240527.gameProject\\GameFunctuion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FBAD6F80-09C3-4ECF-A14F-AF08AA99DD7C}|Project1.vcxproj|solutionrelative:GameFunctuion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBAD6F80-09C3-4ECF-A14F-AF08AA99DD7C}|Project1.vcxproj|E:\\Dxlib2DGamas\\20240527.gameProject\\GameFunctuion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FBAD6F80-09C3-4ECF-A14F-AF08AA99DD7C}|Project1.vcxproj|solutionrelative:GameFunctuion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBAD6F80-09C3-4ECF-A14F-AF08AA99DD7C}|Project1.vcxproj|E:\\Dxlib2DGamas\\20240527.gameProject\\GameData.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FBAD6F80-09C3-4ECF-A14F-AF08AA99DD7C}|Project1.vcxproj|solutionrelative:GameData.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBAD6F80-09C3-4ECF-A14F-AF08AA99DD7C}|Project1.vcxproj|E:\\Dxlib2DGamas\\20240527.gameProject\\GameData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{FBAD6F80-09C3-4ECF-A14F-AF08AA99DD7C}|Project1.vcxproj|E:\\GitHub\\20240527.gameProject\\GameData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FBAD6F80-09C3-4ECF-A14F-AF08AA99DD7C}|Project1.vcxproj|solutionrelative:GameData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBAD6F80-09C3-4ECF-A14F-AF08AA99DD7C}|Project1.vcxproj|E:\\Dxlib2DGamas\\20240527.gameProject\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{FBAD6F80-09C3-4ECF-A14F-AF08AA99DD7C}|Project1.vcxproj|E:\\GitHub\\20240527.gameProject\\GameFunctuion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FBAD6F80-09C3-4ECF-A14F-AF08AA99DD7C}|Project1.vcxproj|solutionrelative:GameFunctuion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAD6F80-09C3-4ECF-A14F-AF08AA99DD7C}|Project1.vcxproj|E:\\GitHub\\20240527.gameProject\\GameFunctuion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FBAD6F80-09C3-4ECF-A14F-AF08AA99DD7C}|Project1.vcxproj|solutionrelative:GameFunctuion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAD6F80-09C3-4ECF-A14F-AF08AA99DD7C}|Project1.vcxproj|E:\\GitHub\\20240527.gameProject\\GameData.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FBAD6F80-09C3-4ECF-A14F-AF08AA99DD7C}|Project1.vcxproj|solutionrelative:GameData.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAD6F80-09C3-4ECF-A14F-AF08AA99DD7C}|Project1.vcxproj|E:\\GitHub\\20240527.gameProject\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FBAD6F80-09C3-4ECF-A14F-AF08AA99DD7C}|Project1.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBAD6F80-09C3-4ECF-A14F-AF08AA99DD7C}|Project1.vcxproj|E:\\Dxlib2DGamas\\20240527.gameProject\\20240520.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{FBAD6F80-09C3-4ECF-A14F-AF08AA99DD7C}|Project1.vcxproj|E:\\GitHub\\20240527.gameProject\\20240520.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FBAD6F80-09C3-4ECF-A14F-AF08AA99DD7C}|Project1.vcxproj|solutionrelative:20240520.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -42,11 +42,11 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "GameData.cpp",
-              "DocumentMoniker": "E:\\Dxlib2DGamas\\20240527.gameProject\\GameData.cpp",
+              "DocumentMoniker": "E:\\GitHub\\20240527.gameProject\\GameData.cpp",
               "RelativeDocumentMoniker": "GameData.cpp",
-              "ToolTip": "E:\\Dxlib2DGamas\\20240527.gameProject\\GameData.cpp",
+              "ToolTip": "E:\\GitHub\\20240527.gameProject\\GameData.cpp",
               "RelativeToolTip": "GameData.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -54,11 +54,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "GameData.h",
-              "DocumentMoniker": "E:\\Dxlib2DGamas\\20240527.gameProject\\GameData.h",
+              "DocumentMoniker": "E:\\GitHub\\20240527.gameProject\\GameData.h",
               "RelativeDocumentMoniker": "GameData.h",
-              "ToolTip": "E:\\Dxlib2DGamas\\20240527.gameProject\\GameData.h",
+              "ToolTip": "E:\\GitHub\\20240527.gameProject\\GameData.h",
               "RelativeToolTip": "GameData.h",
               "ViewState": "AQIAABsAAAAAAAAAAAAAADoAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -66,11 +66,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "GameFunctuion.h",
-              "DocumentMoniker": "E:\\Dxlib2DGamas\\20240527.gameProject\\GameFunctuion.h",
+              "DocumentMoniker": "E:\\GitHub\\20240527.gameProject\\GameFunctuion.h",
               "RelativeDocumentMoniker": "GameFunctuion.h",
-              "ToolTip": "E:\\Dxlib2DGamas\\20240527.gameProject\\GameFunctuion.h",
+              "ToolTip": "E:\\GitHub\\20240527.gameProject\\GameFunctuion.h",
               "RelativeToolTip": "GameFunctuion.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -78,11 +78,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GameFunctuion.cpp",
-              "DocumentMoniker": "E:\\Dxlib2DGamas\\20240527.gameProject\\GameFunctuion.cpp",
+              "DocumentMoniker": "E:\\GitHub\\20240527.gameProject\\GameFunctuion.cpp",
               "RelativeDocumentMoniker": "GameFunctuion.cpp",
-              "ToolTip": "E:\\Dxlib2DGamas\\20240527.gameProject\\GameFunctuion.cpp",
+              "ToolTip": "E:\\GitHub\\20240527.gameProject\\GameFunctuion.cpp",
               "RelativeToolTip": "GameFunctuion.cpp",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAADYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -92,11 +92,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "GameMain.cpp",
-              "DocumentMoniker": "E:\\Dxlib2DGamas\\20240527.gameProject\\GameMain.cpp",
+              "DocumentMoniker": "E:\\GitHub\\20240527.gameProject\\GameMain.cpp",
               "RelativeDocumentMoniker": "GameMain.cpp",
-              "ToolTip": "E:\\Dxlib2DGamas\\20240527.gameProject\\GameMain.cpp",
+              "ToolTip": "E:\\GitHub\\20240527.gameProject\\GameMain.cpp",
               "RelativeToolTip": "GameMain.cpp",
-              "ViewState": "AQIAADYAAAAAAAAAAAAAACAAAAAFAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-27T08:23:51.076Z",
               "EditorCaption": ""
@@ -105,9 +105,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "main.cpp",
-              "DocumentMoniker": "E:\\Dxlib2DGamas\\20240527.gameProject\\main.cpp",
+              "DocumentMoniker": "E:\\GitHub\\20240527.gameProject\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "E:\\Dxlib2DGamas\\20240527.gameProject\\main.cpp",
+              "ToolTip": "E:\\GitHub\\20240527.gameProject\\main.cpp",
               "RelativeToolTip": "main.cpp",
               "ViewState": "AQIAAF0AAAAAAAAAAAAAAKgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -117,9 +117,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "20240520.cpp",
-              "DocumentMoniker": "E:\\Dxlib2DGamas\\20240527.gameProject\\20240520.cpp",
+              "DocumentMoniker": "E:\\GitHub\\20240527.gameProject\\20240520.cpp",
               "RelativeDocumentMoniker": "20240520.cpp",
-              "ToolTip": "E:\\Dxlib2DGamas\\20240527.gameProject\\20240520.cpp",
+              "ToolTip": "E:\\GitHub\\20240527.gameProject\\20240520.cpp",
               "RelativeToolTip": "20240520.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
